@@ -14,7 +14,7 @@ dependencies:
   flutter_html:
     git:
       url: https://github.com/tomeko-atmoapps-com/flutter_html
-      ref: 0ebad053e5fd868c0a19d969641c16fe2265b9da
+      ref: 3f59c920d05e444d54dd010ae2a51ebcea0276f5
   video_player: '>=2.2.8 <3.0.0'
   chewie: '>=1.1.0 <2.0.0'
 
