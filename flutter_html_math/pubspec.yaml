@@ -14,7 +14,7 @@ dependencies:
   flutter_html:
     git:
       url: https://github.com/tomeko-atmoapps-com/flutter_html
-      ref: 2578b0382ec590abe62c4c1961d38e9ed615e0a2
+      ref: 0ebad053e5fd868c0a19d969641c16fe2265b9da
   flutter_math_fork: '>=0.6.0 <1.0.0'
 
 dev_dependencies:
