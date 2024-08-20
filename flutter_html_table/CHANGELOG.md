@@ -1,4 +1,4 @@
-## 3.0.0-beta.2
+## 3.0.0-beta.2f1
 
  - **FIX**: Add "display: Display.block" to table ([#1278](https://github.com/sub6resources/flutter_html/issues/1278)). ([6350f023](https://github.com/sub6resources/flutter_html/commit/6350f02354b7de601ce294123717e2051be97eee))
  - **FIX**: improve API for ExtensionContext and export marker.dart ([#1273](https://github.com/sub6resources/flutter_html/issues/1273)). ([27e33a95](https://github.com/sub6resources/flutter_html/commit/27e33a955e872d47306db9480f74f6da2e9a028a))
